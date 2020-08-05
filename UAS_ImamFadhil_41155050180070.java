@@ -53,4 +53,5 @@ public class UAS_ImamFadhil_41155050180070 extends Thread {
         }while(ulang && !thr.isAlive()); //ulangi jika thread nya udah mati dan ulang nya true
         System.out.println("\nThread run successfully");
     }
+    System.out.println("Telah di edit");
 }
