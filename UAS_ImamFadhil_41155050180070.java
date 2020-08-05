@@ -54,4 +54,5 @@ public class UAS_ImamFadhil_41155050180070 extends Thread {
         System.out.println("\nThread run successfully");
     }
     System.out.println("Telah di edit");
+    System.out.println("Telah di edit kembali oleh Imam Fadhil");
 }
